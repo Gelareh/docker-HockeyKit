@@ -1,9 +1,9 @@
 # docker-HockeyKit
 
 * go to the repository in which you have pulled current version of the project.
-* docker build .
+* run the command: docker build .
 
-in case of a successful buid:
+in case of a successful buid run:
 
 * docker run -it --rm -p 11080:80 <BUILD-ID>
 
