@@ -1,9 +1,9 @@
-## -*- docker-image-name: "mcreations/HockyKit" -*-
+## -*- docker-image-name: "mcreations/HockeyKit" -*-
 
 FROM mcreations/openwrt-php5
 MAINTAINER Gelareh Abooghadareh <abooghadareh@m-creations.net> 
 
-# HOCKY Version
+# HOCKEY Version
 ENV HOCKEY_VERSION v20140915
 ENV HOCKEY 20140915
 
